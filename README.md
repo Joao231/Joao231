@@ -1,8 +1,6 @@
 ## 👋 Hey! Most of my GitHub activity happens under another account:
 
-> Check out my active work at [@pro_account](https://github.com/JoaoAlves-Ledgerlink), where I contribute to private repositories full-time.
-
-![Pro account's stats](https://github-readme-stats.vercel.app/api?username=JoaoAlves-Ledgerlink&count_private=true&show_icons=true&theme=default)
+> Check out my active work at [@JoaoAlves-Ledgerlink](https://github.com/JoaoAlves-Ledgerlink), where I contribute to private repositories full-time.
 <!--
 **Joao231/Joao231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
