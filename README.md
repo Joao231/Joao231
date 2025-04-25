@@ -1,6 +1,6 @@
 ## 👋 Hey! Most of my GitHub activity happens under another account:
 
-> Check out my active work at [@JoaoAlves-Ledgerlink](https://github.com/JoaoAlves-Ledgerlink), where I contribute to private repositories full-time.
+> Check out my active work at [@JoaoAlves-Ledgerlink]([https://github.com/JoaoAlves-Ledgerlink](https://github.com/JoaoAlves-Ledgerlink?tab=overview&from=2025-04-01&to=2025-04-25)), where I contribute to private repositories full-time.
 <!--
 **Joao231/Joao231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
